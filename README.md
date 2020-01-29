@@ -4,7 +4,7 @@
 
   This utility is designed to allow users to easily tunnel ports across the internet, even if you are behind a firewall. This replaces the need to do port forwarding!
 
-## Need Help Tunneling a Game?
+## Need Help With Tunneling?
 
 Read [this.](https://github.com/encodeous/encodeous-tunnel/blob/master/TUTORIAL.md)
 
