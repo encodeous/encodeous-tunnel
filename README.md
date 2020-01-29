@@ -1,6 +1,6 @@
 # Encodeous Tunnel
 
-## Fast Tunneling Utilities for Creating Web/Game Servers
+## Fast Tunneling Utilities for Servers/Port Mapping
 
   This utility is designed to allow users to easily tunnel ports across the internet, even if you are behind a firewall. This replaces the need to do port forwarding!
 
