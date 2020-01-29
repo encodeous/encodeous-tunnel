@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>tor-tunnel-icon-arch-hd-png-download.ico</ApplicationIcon>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -87,13 +87,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="cloudflared" />
+    <EmbeddedResource Include="cloudflared" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="chisel" />
+    <EmbeddedResource Include="chisel" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="tor-tunnel-icon-arch-hd-png-download.ico" />
+    <Content Include="icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
