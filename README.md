@@ -6,7 +6,7 @@
 
 ## Need Help Tunneling a Game?
 
-Read [this.](https://github.com/encodeous/encodeous-tunnel/blob/master/README.md)
+Read [this.](https://github.com/encodeous/encodeous-tunnel/blob/master/TUTORIAL.md)
 
 ## Technical Information
 
