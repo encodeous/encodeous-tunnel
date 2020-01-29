@@ -2,7 +2,7 @@
 
 ## Fast Tunneling Utilities for Creating Web/Game Servers
 
-  This utility is designed to allow users to easily tunnel ports across the internet, even if you are behind a firewall.
+  This utility is designed to allow users to easily tunnel ports across the internet, even if you are behind a firewall. This replaces the need to do port forwarding!
 
 ## Need Help Tunneling a Game?
 
